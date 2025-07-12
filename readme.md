@@ -29,7 +29,6 @@ A mini project that:
 - Displays the number of characters in their name
 
  *Skills Practiced:* Combining input/output, len() usage, f-strings.
-# 🌟 Capstone Project: Personalized Greeting and Name Length
 
 🔹 How to Run the Code:
 
